@@ -1,0 +1,26 @@
+// quiero hacer un comentario //
+
+<!-"Ya me enrrede con tanta teoria"->
+<!- en fin ->
+<P>No se si esta es la manera correcta de hacer esto pero es una practica para subir un <br>
+repositorio ya que no lo pude subir con la ext .txt por lo que opte por subirlo de esta manera<br>
+mi idea fue empezar con las practicas y subir la evidencia</P>
+
+<!-TAMPOCO SE SI PONER LA ESTRUCTURA Y LAS ETIQUETAS DE HTML DESDE EL INICIO ->
+
+<h2> GITANA </h2> 
+<H4>SHAKIRA</H4>
+
+
+Nunca usé un antifaz
+Voy de paso por este mundo fugaz
+No pretendo parar
+Dime quién camina cuando se puede volar
+
+Mi destino es andar
+Mis recuerdos son una estela en el mar
+Lo que tengo, lo doy
+Digo lo que pienso, tómame como soy
+
+Y va liviano, mi corazón gitano
+Que solo entiende de latir a contramarea
